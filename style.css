@@ -19,7 +19,6 @@ em strong {color: #18bbc1;}
 
 ul {display: inline-block; vertical-align: top;	width: 20%;	margin-right: 15%;}
 
-.imagempes {width: 50%;}
-.imagempes
+.imagempes {width: 50%;align-items: center;}
 
 .titulo-centralizado {font-size: 300%; font-family: 'Times New Roman', Times, serif; color: black;}
